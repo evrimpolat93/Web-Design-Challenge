@@ -1,6 +1,6 @@
 body{
     background-color:white;
-    
+    color:orchid;
 }
 
 .center {
@@ -8,9 +8,10 @@ body{
     margin-bottom: 20px;
     margin-left: 15px;
     font-size: 35px;
-    color: black;
+    color: pink;
     font-weight: bolder;
     padding-left: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .navbar-brand {
     color: black!important;
